@@ -1,6 +1,4 @@
 # Iron-Scanner
-Scanner de puertos escrito en Perl!
-
 ```
 [arhoc@ArchLinux Iron_Scanner ]$ perl Iron.pl -h
 
